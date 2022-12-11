@@ -15,6 +15,12 @@ $(document).ready(function(){
 	});
 
 	$('#tei').teiDisplay();
+	
+	
+ $.getJSON("https://dovile-gervyte.github.io/Fowles/data/annotation_3.json")
+    
+    });
+
 
 
 	//Display versioned TEI files in a container with ID #tei-single.
