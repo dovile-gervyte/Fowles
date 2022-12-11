@@ -7,8 +7,8 @@ $(document).ready(function(){
 		xmlFile: 'data/index.xml',
 		annotations: 'data/annotation_3.json',
 		highlights: 'data/annotation_3.json',
-		fixFirst: true,
-		//height: 300,
+		fixFirst: false,
+		//height: 500,
 		//locs: 'a3,a4,a5',
 		//witnesses: 'ver, tx, tsc2',
 		dev: false
