@@ -8,7 +8,7 @@ $(document).ready(function(){
 		annotations: 'data/annotation_3.json',
 		highlights: 'data/annotation_3.json',
 		fixFirst: false,
-		//height: 500,
+		//height: 300,
 		//locs: 'a3,a4,a5',
 		//witnesses: 'ver, tx, tsc2',
 		dev: false
