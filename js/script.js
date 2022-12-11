@@ -4,9 +4,9 @@ $(document).ready(function(){
 	//This example assumes that the container takes up the entire screen.
 
 	$('#tei').data('teiDisplay', {
-		xmlFile: 'data/index.xml',
-		annotations: 'data/annotation_3.json',
-		highlights: 'data/annotation_3.json',
+		xmlFile: 'main/data/index.xml',
+		annotations: 'main/data/annotation_3.json',
+		highlights: 'main/data/annotation_3.json',
 		fixFirst: false,
 		//height: 300,
 		//locs: 'a3,a4,a5',
